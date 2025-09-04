@@ -1,7 +1,7 @@
-const birthYear = 1947;
-const thisYear = 1965;
-const firstName = "Carlos";
-const lastName = "Stevenson";
+const birthYear = 2007;
+const thisYear = 2025;
+const firstName = "Vaibhav";
+const lastName = "Bharwdaj";
 
 const greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old.";
 
